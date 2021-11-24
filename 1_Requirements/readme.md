@@ -10,18 +10,18 @@ year . A calendar is to be informed about or to agree on a future event and to r
 
 ## SWOT ANALYSIS
 ### STRENGTH
--  It keeps us oraganized
--  Helps to be accountable
+- It keeps us oraganized
+- Helps to be accountable
 
 ### WEAKNESS
--  Data corruption
+- Data corruption
 
 ### OPPURTUNITIES
--  Easy to access
--  Low memory storage
+- Easy to access
+- Low memory storage
 
 ### THREATS
--  Similar Applications with advanced features.
+- Similar Applications with advanced features.
 
 ## 4W'S AND 1'H
 ### Who
