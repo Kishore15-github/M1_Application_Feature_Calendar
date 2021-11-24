@@ -8,7 +8,6 @@ year . A calendar is to be informed about or to agree on a future event and to r
 - Easy to access 
 - Low memory storage
 
-
 ## SWOT ANALYSIS
 
 ### STRENGTH
@@ -43,15 +42,11 @@ Giving the input of the year which we want ,the outoput will be displayed.
 
 ## High level requirements
 
-
 | Plugin | README | Status (Implemented/Future) |
 | ------ | ------ |-----------------------------|
 |Iot |Upating calender with connecting aut mated devices  with iot and schedule the work with iot devices |Future |
 
-
-
 ## Low level requirements
-
 
  Plugin | README | Status (Implemented/Future)  |
 | ------ | ------ |-----------------------------|
