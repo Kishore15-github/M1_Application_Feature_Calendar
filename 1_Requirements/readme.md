@@ -5,8 +5,8 @@ A calendar is a system where it keeps our days orgainzed ,the organized schedule
 year . A calendar is to be informed about or to agree on a future event and to record an event that has happened. Days may be significant for agricultural, civil, religious, or social reasons. Calendars play an important role in our daily work to help us stay on task as well as be productive and prioritize. By using them to schedule our daily work we can avoid distractions and get back on track when interrupted.
 
 # Features
-- Easy to access 
-- Low memory storage
+Easy to access 
+Low memory storage
 
 ## SWOT ANALYSIS
 ### STRENGTH
