@@ -39,10 +39,12 @@ Giving the input of the year which we want ,the outoput will be displayed.
 ## Requirements 
 ## High level requirements
 | Plugin | README | Status (Implemented/Future) |
+|----------|--------|-------------------------|
 |Iot |Upating calender with connecting aut mated devices  with iot and schedule the work with iot devices |Future |
 
 ## Low level requirements
 |Plugin | README | Status (Implemented/Future)  |
+|-----------|----------|--------------------|
 |Weather forecast |Updaing next 10 days weather forecast |Future |
 | Addings Reminder/Events|Adding important notes and get notified |Future |
 |Better UI design |Updating the application with beter UI design |Future |
