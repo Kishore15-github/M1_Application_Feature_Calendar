@@ -1,4 +1,4 @@
-##                                   Calendar
+## Calendar
 ## The Abstract of the Project is to develop a a application without graphics in C language  
 
 A calendar is a system where it keeps our days orgainzed ,the organized schedule is done by specific time at a particualar day, month in a  
@@ -24,7 +24,7 @@ year . A calendar is to be informed about or to agree on a future event and to r
 - Low memory storage
 
 ### THREATS
--Similar Applications with advanced features.
+- Similar Applications with advanced features.
 
 ## 4W'S AND 1'H
 
