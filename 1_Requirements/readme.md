@@ -54,7 +54,7 @@ Giving the input of the year which we want ,the outoput will be displayed.
 ## Low level requirements
 
 
- Plugin | README | Status (Implemented/Future) |
+ Plugin | README | Status (Implemented/Future)  |
 | ------ | ------ |-----------------------------|
 |Weather forecast |Updaing next 10 days weather forecast |Future |
 | Addings Reminder/Events|Adding important notes and get notified |Future |
