@@ -48,3 +48,24 @@ Giving the input of the year which we want ,the outoput will be displayed.
 |Weather forecast |Updaing next 10 days weather forecast |Future |
 | Addings Reminder/Events|Adding important notes and get notified |Future |
 |Better UI design |Updating the application with beter UI design |Future |
+
+## Design
+## The design of this project is implemented by the input provided  from the  user
+### First after getting the input,it start to find the starting index of the year ,then the month and check all the months in year will with appropriate dates will be given to the user then find the no of days then the output is displayed
+
+# Table no: High level test plan
+
+| **Test ID** | **Description**                                              | **Exp I/P** | **Exp O/P** | **Actual Out** |**Type Of Test**  |    
+|-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
+|  H_01       |Checking whether the days are correct in every month |Year|Success|Success|Requirement based|
+|  H_02       |Checking the calendar format is correct year/month/days.|-|Success|Success|Scenario based|
+|  H_03        |Checking whether the user can edit the year which they want|-|Success|Success|Boundary based|
+
+## Table no: Low level test plan
+
+| **Test ID** | **Description**                                              | **Exp IN** | **Exp OUT** | **Actual Out** |**Type Of Test**  |    
+|-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
+|  L_01      |Program running without bugs|-|Success|Success|Requirement Based|
+|  L_02      |Program excecuting in all platforms|-|Success|Success|Scenario Based|
+|  L_03      |Offline application |-|Success|Sucesss|Boundary based|
+
