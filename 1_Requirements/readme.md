@@ -9,23 +9,21 @@ year . A calendar is to be informed about or to agree on a future event and to r
 - Low memory storage
 
 ## SWOT ANALYSIS
-
 ### STRENGTH
-- It keeps us oraganized
-- Helps to be accountable
+-  It keeps us oraganized
+-  Helps to be accountable
 
 ### WEAKNESS
--Data corruption
+-  Data corruption
 
 ### OPPURTUNITIES
-- Easy to access
-- Low memory storage
+-  Easy to access
+-  Low memory storage
 
 ### THREATS
-- Similar Applications with advanced features.
+-  Similar Applications with advanced features.
 
 ## 4W'S AND 1'H
-
 ### Who
 A calendar is a system of organizing days. This is done by giving names to periods of time, typically days, weeks, months and years. A date is the designation of a single, specific day within such a system
 
@@ -39,7 +37,6 @@ The Calendar application  is accessable at Phone,Laptops,smart watches etc.
 Giving the input of the year which we want ,the outoput will be displayed.
 
 ## Requirements 
-
 ## High level requirements
 
 | Plugin | README | Status (Implemented/Future) |
